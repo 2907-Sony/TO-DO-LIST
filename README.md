@@ -23,3 +23,8 @@ This project is created for practice and learning purposes.
 --Download or clone the repository
 --Open index.html in any web browser
 --Add items to the list and remove them as needed
+
+## Code Sandbox
+
+If there are any issues running this project locally, you can view and explore the exact working code using the sandbox link below:
+https://nwlg2l.csb.app/
